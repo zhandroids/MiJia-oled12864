@@ -1,0 +1,19 @@
+{
+    "name": "MiJia-OLED12864_I2C",
+    "version": "1.5.0",
+    "description": "米加盒子 的 micro:bit 版 I2C 接口 OLED 128 x 64 显示模块扩展",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "pxtparts.json",
+        "OLED12864_I2C.ts",
+        "parts/OLED12864_I2C.svg"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
